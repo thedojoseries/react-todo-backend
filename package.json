@@ -1,5 +1,5 @@
 {
-  "name": "mongo-express-react",
+  "name": "docker-dojo-be",
   "version": "1.0.0",
   "description": "A full stack application with React and MongoDB (Easily deployed)",
   "main": "index.js",
